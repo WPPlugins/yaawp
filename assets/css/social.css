@@ -1,0 +1,113 @@
+#yaawp-social-wrapper {
+	margin: 15px 0;
+	float: left;
+	width: 350px;
+	border: 1px solid #D5D5D5;
+}
+
+#yaawp-social-list-wrapper {
+	margin: 10px;
+	min-height: 35px;
+}
+
+#yaawp-social-list-16, #yaawp-social-list-32, #yaawp-social-list-64 {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+#yaawp-social-list-16 input[type="checkbox"] {
+	margin: 3px 1px;
+}
+
+#yaawp-social-list-32 input[type="checkbox"] {
+	margin: 3px 9px;
+}
+
+#yaawp-social-list-64 input[type="checkbox"] {
+	margin: 3px 20px;
+}
+
+#yaawp-social-list-16 li, #yaawp-social-list-32 li,#yaawp-social-list-64 li {
+	background: none;
+	display: inline !important;
+	list-style-type: none;
+	margin: 0;
+	padding: 2px;
+	float: left;
+}
+
+#yaawp-social-list-16 li:first-child, #yaawp-social-list-32 li:first-child, #yaawp-social-list-64 li:first-child {
+	padding-left: 0;
+}
+
+#yaawp-social-list-16 li a {
+	display:block;
+	background: url('../img/social/_csg-512c5c7cbdbc7.png') no-repeat scroll;
+	text-indent:-9999px;
+}
+
+#yaawp-social-list-16 .sprite-blinklist{ background-position: 0 0; width: 16px; height: 16px; } 
+#yaawp-social-list-16 .sprite-delicious{ background-position: 0 -66px; width: 16px; height: 16px; } 
+#yaawp-social-list-16 .sprite-designfloat{ background-position: 0 -132px; width: 16px; height: 16px; } 
+#yaawp-social-list-16 .sprite-digg{ background-position: 0 -198px; width: 16px; height: 16px; } 
+#yaawp-social-list-16 .sprite-facebook{ background-position: 0 -264px; width: 16px; height: 16px; } 
+#yaawp-social-list-16 .sprite-google{ background-position: 0 -330px; width: 16px; height: 16px; } 
+#yaawp-social-list-16 .sprite-linkedin{ background-position: 0 -396px; width: 16px; height: 16px; } 
+#yaawp-social-list-16 .sprite-myspace{ background-position: 0 -462px; width: 16px; height: 16px; } 
+#yaawp-social-list-16 .sprite-posterous{ background-position: 0 -528px; width: 16px; height: 16px; } 
+#yaawp-social-list-16 .sprite-reddit{ background-position: 0 -594px; width: 16px; height: 16px; } 
+#yaawp-social-list-16 .sprite-rss{ background-position: 0 -660px; width: 16px; height: 16px; } 
+#yaawp-social-list-16 .sprite-stumbleupon{ background-position: 0 -726px; width: 16px; height: 16px; } 
+#yaawp-social-list-16 .sprite-technorati{ background-position: 0 -792px; width: 16px; height: 16px; } 
+#yaawp-social-list-16 .sprite-tumblr{ background-position: 0 -858px; width: 16px; height: 16px; } 
+#yaawp-social-list-16 .sprite-twitter{ background-position: 0 -924px; width: 16px; height: 16px; }
+
+#yaawp-social-list-32 li a {
+	display:block;
+	background: url('../img/social/_csg-512c5ec66d685.png') no-repeat scroll;
+	text-indent:-9999px;
+}
+
+#yaawp-social-list-32 .sprite-blinklist{ background-position: 0 0; width: 32px; height: 32px; } 
+#yaawp-social-list-32 .sprite-delicious{ background-position: 0 -82px; width: 32px; height: 32px; } 
+#yaawp-social-list-32 .sprite-designfloat{ background-position: 0 -164px; width: 32px; height: 32px; } 
+#yaawp-social-list-32 .sprite-digg{ background-position: 0 -246px; width: 32px; height: 32px; } 
+#yaawp-social-list-32 .sprite-facebook{ background-position: 0 -328px; width: 32px; height: 32px; } 
+#yaawp-social-list-32 .sprite-google{ background-position: 0 -410px; width: 32px; height: 32px; } 
+#yaawp-social-list-32 .sprite-linkedin{ background-position: 0 -492px; width: 32px; height: 32px; } 
+#yaawp-social-list-32 .sprite-myspace{ background-position: 0 -574px; width: 32px; height: 32px; } 
+#yaawp-social-list-32 .sprite-posterous{ background-position: 0 -656px; width: 32px; height: 32px; } 
+#yaawp-social-list-32 .sprite-reddit{ background-position: 0 -738px; width: 32px; height: 32px; } 
+#yaawp-social-list-32 .sprite-rss{ background-position: 0 -820px; width: 32px; height: 32px; } 
+#yaawp-social-list-32 .sprite-stumbleupon{ background-position: 0 -902px; width: 32px; height: 32px; } 
+#yaawp-social-list-32 .sprite-technorati{ background-position: 0 -984px; width: 32px; height: 32px; } 
+#yaawp-social-list-32 .sprite-tumblr{ background-position: 0 -1066px; width: 32px; height: 32px; } 
+#yaawp-social-list-32 .sprite-twitter{ background-position: 0 -1148px; width: 32px; height: 32px; } 
+
+#yaawp-social-list-64 li a {
+	display:block;
+	background: url('../img/social/_csg-512c5f420ad05.png') no-repeat scroll;
+	text-indent:-9999px;
+} 
+
+#yaawp-social-list-64 .sprite-blinklist{ background-position: 0 0; width: 64px; height: 64px; } 
+#yaawp-social-list-64 .sprite-delicious{ background-position: 0 -114px; width: 64px; height: 64px; } 
+#yaawp-social-list-64 .sprite-designfloat{ background-position: 0 -228px; width: 64px; height: 64px; } 
+#yaawp-social-list-64 .sprite-digg{ background-position: 0 -342px; width: 64px; height: 64px; } 
+#yaawp-social-list-64 .sprite-facebook{ background-position: 0 -456px; width: 64px; height: 64px; } 
+#yaawp-social-list-64 .sprite-google{ background-position: 0 -570px; width: 64px; height: 64px; } 
+#yaawp-social-list-64 .sprite-linkedin{ background-position: 0 -684px; width: 64px; height: 64px; } 
+#yaawp-social-list-64 .sprite-myspace{ background-position: 0 -798px; width: 64px; height: 64px; } 
+#yaawp-social-list-64 .sprite-posterous{ background-position: 0 -912px; width: 64px; height: 64px; } 
+#yaawp-social-list-64 .sprite-reddit{ background-position: 0 -1026px; width: 64px; height: 64px; } 
+#yaawp-social-list-64 .sprite-rss{ background-position: 0 -1140px; width: 64px; height: 64px; } 
+#yaawp-social-list-64 .sprite-stumbleupon{ background-position: 0 -1254px; width: 64px; height: 64px; } 
+#yaawp-social-list-64 .sprite-technorati{ background-position: 0 -1368px; width: 64px; height: 64px; } 
+#yaawp-social-list-64 .sprite-tumblr{ background-position: 0 -1482px; width: 64px; height: 64px; } 
+#yaawp-social-list-64 .sprite-twitter{ background-position: 0 -1596px; width: 64px; height: 64px; }
+
+.product3 #yaawp-social-wrapper {
+	width: 100%;
+	margin-top: -10px;
+	border: #a8a8a8 solid 1px;
+}
